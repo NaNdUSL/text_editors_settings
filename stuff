@@ -1,3 +1,16 @@
+/*{
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/User/my_scheme.sublime-color-scheme",
+	"font_size": 8,
+	"word_wrap": "true",
+	"block_caret": true,
+	"caret_style": "fade",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}*/
+
 {
     "name": "My shit",
     "author": "Not this guy",
