@@ -1,15 +1,29 @@
-/*{
+/*
+{
 	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/User/my_scheme.sublime-color-scheme",
-	"font_size": 8,
+	"color_scheme": "my_scheme.sublime-color-scheme",
+	"font_size": 9,
 	"word_wrap": "true",
-	"block_caret": true,
+	"block_caret": false,
+	"draw_minimap_border": true,
+	"match_brackets_angle": true,
+	"always_show_minimap_viewport": true,
+	"move_to_limit_on_up_down": true,
+	"relative_line_numbers": false,
+	"show_encoding": true,
+	"adaptive_dividers": false,
+	"highlight_line": true,
+	"caret_extra_top": 0,
+	"caret_extra_bottom": 0,
+	"caret_extra_width": 1,
 	"caret_style": "fade",
 	"ignored_packages":
 	[
 		"Vintage",
 	],
-}*/
+	// "vintage_start_in_command_mode": true,
+}
+*/
 
 {
     "name": "My shit",
