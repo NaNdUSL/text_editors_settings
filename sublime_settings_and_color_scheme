@@ -31,10 +31,10 @@
     "globals":
     {
         "foreground": "#FFFFFF",
-        "background": "#1a2527",
+        "background": "#1A2527",
         "caret": "#0FB0A2",
-        "invisibles": "#5F5151A8",
-        "line_highlight": "#0F0F0F",
+        "invisibles": "#5F91A8",
+        "line_highlight": "#2B3638",
         "selection": "color(#839AAB alpha(0.2))"
     },
     "rules":
@@ -58,17 +58,17 @@
         {
             "name": "Comparision Operator",
             "scope": "keyword.operator.comparison",
-            "foreground": "#4B6071"
+            "foreground": "#4B7193"
         },
         {
             "name": "Assignment Operator",
             "scope": "keyword.operator.assignment",
-            "foreground": "#4B6071"
+            "foreground": "#4B7193"
         },
         {
             "name": "Arithmetic Operator",
             "scope": "keyword.operator.arithmetic",
-            "foreground": "#4B7081"
+            "foreground": "#4B7193"
         },
         {
             "name": "Number",
